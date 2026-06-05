@@ -1,0 +1,21 @@
+HeroGest/
+│
+├── main.py
+│
+├── assets/
+│   ├── videos/
+│   │   └── portal.mp4
+│   │
+│   ├── frames/
+│   │   └── portal/
+│   │
+│   └── transparent/
+│       └── portal/
+│
+├── scripts/
+│   ├── extract_frames.py
+│   └── remove_green.py
+│
+└── effects/
+    ├── overlay.py
+    └── portal_player.py
